@@ -1,6 +1,6 @@
-# WatchOS with SwiftUI by Tutorials: Materials
+# watchOS with SwiftUI by Tutorials: Materials
 
-This repo contains all the downloadable materials and projects associated with the **[WatchOS with SwiftUI by Tutorials](https://www.raywenderlich.com/books)** from [raywenderlich.com](https://www.raywenderlich.com).
+This repo contains all the downloadable materials and projects associated with the **[watchOS with SwiftUI by Tutorials](https://www.raywenderlich.com/books)** from [raywenderlich.com](https://www.raywenderlich.com).
 
 Each edition has its own branch, named `editions/[EDITION]`. The default branch for this repo is for the most recent edition.
 
